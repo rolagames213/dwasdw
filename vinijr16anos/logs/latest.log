@@ -1,0 +1,288 @@
+[19:28:02] [main/INFO]: ModLauncher running: args [--username, Esqueleto Molestador, --version, vinijr16anos, --gameDir, C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos, --assetsDir, C:\Users\Felipe\AppData\Roaming\.minecraft\assets, --assetIndex, 24, --uuid, e20c42edf087450196c5ac9c9c307991, --accessToken, **********, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forge_client]
+[19:28:02] [main/INFO]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.3+9-LTS
+[19:28:02] [main/INFO]: ModLauncher 10.2.4 starting: java version 21.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[19:28:02] [main/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\fml.toml is not correct. Correcting
+[19:28:02] [main/INFO]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[19:28:02] [main/INFO]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[19:28:02] [main/INFO]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[19:28:02] [main/INFO]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[19:28:02] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[19:28:02] [main/INFO]: Trying GL version 4.6
+[19:28:02] [main/INFO]: If this message is the only thing at the bottom of your log before a crash, you probably have a driver issue.
+
+Possible solutions:
+A) Make sure Minecraft is set to prefer high performance graphics in the OS and/or driver control panel
+B) Check for driver updates on the graphics brand's website
+C) Try reinstalling your graphics drivers
+D) If still not working after trying all of the above, ask for further help on the Forge forums or Discord
+
+You can safely ignore this message if the game starts up successfully.
+[19:28:02] [main/INFO]: Requested GL version 4.6 got version 4.6
+[19:28:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Felipe/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[19:28:03] [main/INFO]: Found mod file balm-forge-1.21.5-21.5.16-all.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file bettervillage-forge-1.21.5-3.3.0-all.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file collective-1.21.5-8.3.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file durabilitytooltip-1.1.5-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file dynamiclights-v1.8.6-mc1.17-1.21.5-mod.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file FallingTree-1.21.5-1.21.5.6.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file infinitetrading-1.21.5-4.6.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file journeymap-forge-1.21.5-6.0.0-beta.46.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file libraryferret-forge-1.21.5-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.21.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file tl_skin_cape_forge_1.21.5-1.35.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [main/INFO]: Found mod file waystones-forge-1.21.5-21.5.5.jar of type MOD with provider {mods folder locator at C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\mods}
+[19:28:03] [EarlyDisplay/INFO]: GL info: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 576.40, NVIDIA Corporation
+[19:28:03] [main/INFO]: Found mod file forge-1.21.5-55.0.16-client.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@22d1886d
+[19:28:03] [main/INFO]: Found mod file lowcodelanguage-1.21.5-55.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@5c10285a
+[19:28:03] [main/INFO]: Found mod file mclanguage-1.21.5-55.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@5c10285a
+[19:28:03] [main/INFO]: Found mod file forge-1.21.5-55.0.16-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@5c10285a
+[19:28:03] [main/INFO]: Found mod file fmlcore-1.21.5-55.0.16.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@5c10285a
+[19:28:03] [main/INFO]: Found mod file javafmllanguage-1.21.5-55.0.16.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@5c10285a
+[19:28:03] [main/INFO]: Found 6 dependencies adding them to mods collection
+[19:28:03] [main/INFO]: Found mod file common-networking-forge-1.0.18-1.21.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:03] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:03] [main/INFO]: Found mod file mixinextras-forge-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:03] [main/INFO]: Found mod file kuma-api-forge-21.5.2+1.21.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:03] [main/INFO]: Found mod file pngj-2.1.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:03] [main/INFO]: Found mod file journeymap-api-forge-2.0.0-1.21.5-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4e93dcb9
+[19:28:04] [main/INFO]: Compatibility level set to JAVA_21
+[19:28:04] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[19:28:04] [main/INFO]: Launching target 'forge_client' with arguments [--version, vinijr16anos, --gameDir, C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos, --assetsDir, C:\Users\Felipe\AppData\Roaming\.minecraft\assets, --uuid, e20c42edf087450196c5ac9c9c307991, --username, Esqueleto Molestador, --assetIndex, 24, --accessToken, **********, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
+[19:28:04] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:04] [main/WARN]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:04] [main/WARN]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:04] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:04] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:28:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:28:07] [Datafixer Bootstrap/INFO]: 263 Datafixer optimizations took 1279 milliseconds
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:root
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:sound_event
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:fluid
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:particle_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:attribute
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:mob_effect
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:block
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_effect_component_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_score_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_number_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:map_decoration_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_pool_entry_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_nbt_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_function_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:data_component_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:entity_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:item
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:game_event
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:potion
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:block_entity_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:stat_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:custom_stat
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:chunk_status
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:rule_test
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:rule_block_entity_modifier
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:pos_rule_test
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:menu
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:recipe_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:recipe_serializer
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:position_source_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:command_argument_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:villager_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:villager_profession
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:point_of_interest_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:memory_module_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:sensor_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:activity
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:schedule
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:loot_condition_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:float_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:int_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:height_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:block_predicate_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/carver
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/structure_processor
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/feature
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/structure_placement
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/structure_piece
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/structure_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/placement_modifier_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/block_state_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/foliage_placer_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/trunk_placer_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/root_placer_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/tree_decorator_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/feature_size_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/biome_source
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/chunk_generator
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/material_condition
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/material_rule
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/density_function_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:block_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/structure_pool_element
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:worldgen/pool_alias_binding
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:decorated_pot_pattern
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:creative_mode_tab
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:trigger_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:number_format_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:entity_sub_predicate_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:data_component_predicate_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_level_based_value_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_entity_effect_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_location_based_effect_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_value_effect_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:enchantment_provider_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:consume_effect_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:recipe_display
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:slot_display
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:recipe_book_category
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:ticket_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:test_environment_definition_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:test_instance_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:spawn_condition_type
+[19:28:11] [pool-5-thread-1/INFO]: 	minecraft:test_function
+[19:28:11] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:28:11] [Render thread/INFO]: Setting user: Esqueleto Molestador
+[19:28:11] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[19:28:11] [Render thread/INFO]: Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[19:28:11] [modloading-worker-0/INFO]: [Dynamic Lights] Registering server started event ...
+[19:28:11] [modloading-worker-0/INFO]: Loading Collective version 8.3.
+[19:28:11] [modloading-worker-0/INFO]: Welcome! C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config/libraryferret_1.properties created and initialized with default value
+[19:28:11] [modloading-worker-0/INFO]: Welcome! C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config/bettervillage_1.properties created and initialized with default value
+[19:28:11] [modloading-worker-0/INFO]: Initialize mod Library Ferret
+[19:28:11] [modloading-worker-0/INFO]: Initialized mod Library Ferret
+[19:28:11] [modloading-worker-0/INFO]: Forge mod loading, version 55.0.16, for MC 1.21.5 with MCP 20250325.155543
+[19:28:11] [modloading-worker-0/INFO]: MinecraftForge v55.0.16 Initialized
+[19:28:11] [modloading-worker-0/INFO]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19:28:12] [modloading-worker-0/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[19:28:12] [modloading-worker-0/INFO]: Loaded journeymap.common.helpers.ForgeClientHooks@5fc75935 for service interface journeymap.api.services.ClientPlatformService
+[19:28:12] [modloading-worker-0/INFO]: Loaded journeymap.common.helpers.ForgeHooks@21b5757a for service interface journeymap.api.services.CommonPlatformService
+[19:28:12] [Render thread/INFO]: Registering Keybinds
+[19:28:12] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[19:28:12] [modloading-worker-0/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\forge-client.toml is not correct. Correcting
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key client.allowMipmapLowering was corrected from null to its default, false. 
+[19:28:12] [modloading-worker-0/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\balm-client.toml is not correct. Correcting
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleEnum was corrected from null to its default, Hello. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleInt was corrected from null to its default, 42. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleIntList was corrected from null to its default, [12, 24]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleBoolean was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleString was corrected from null to its default, Hello World. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleStringList was corrected from null to its default, [Hello, World]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleEnumList was corrected from null to its default, [Hello, World]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleResourceLocationSet was corrected from null to its default, [minecraft:dirt, minecraft:diamond]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory.innerField was corrected from null to its default, I am inside. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory.exampleFloat was corrected from null to its default, 42.84000015258789. 
+[19:28:12] [Worker-Main-1/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[19:28:12] [modloading-worker-0/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\forge-common.toml is not correct. Correcting
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
+[19:28:12] [modloading-worker-0/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\waystones-common.toml is not correct. Correcting
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.restrictedWaystones was corrected from null to its default, [PLAYER]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.defaultVisibility was corrected from null to its default, ACTIVATION. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.allowedVisibilities was corrected from null to its default, []. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.warpStoneUseTime was corrected from null to its default, 32. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.warpPlateUseTime was corrected from null to its default, 15. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key general.scrollUseTime was corrected from null to its default, 32. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton.inventoryButton was corrected from null to its default, . 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton.inventoryButtonX was corrected from null to its default, 58. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton.inventoryButtonY was corrected from null to its default, 60. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton.creativeInventoryButtonX was corrected from null to its default, 88. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key inventoryButton.creativeInventoryButtonY was corrected from null to its default, 33. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.wildWaystoneStyle was corrected from null to its default, BIOME. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.chunksBetweenWildWaystones was corrected from null to its default, 25. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.wildWaystonesDimensionAllowList was corrected from null to its default, [minecraft:the_nether, minecraft:overworld, minecraft:the_end]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.wildWaystonesDimensionDenyList was corrected from null to its default, []. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.nameGenerationMode was corrected from null to its default, PRESET_FIRST. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.nameGenerationTemplate was corrected from null to its default, {MrPork}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.nameGenerationPresets was corrected from null to its default, []. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key worldGen.spawnInVillages was corrected from null to its default, REGULAR. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.enableCosts was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.enableCooldowns was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.warpRequirements was corrected from null to its default, [[is_not_interdimensional] scaled_add_xp_cost(distance, 0.01), [is_interdimensional] add_xp_cost(27), [source_is_warp_plate] multiply_xp_cost(0), [target_is_global] multiply_xp_cost(0), min_xp_cost(0), max_xp_cost(27), [source_is_inventory_button] add_cooldown(inventory_button, 300)]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.transportPets was corrected from null to its default, DISABLED. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.transportLeashed was corrected from null to its default, ENABLED. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key teleports.entityDenyList was corrected from null to its default, [minecraft:wither]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key client.disableTextGlow was corrected from null to its default, false. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key compatibility was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key compatibility.journeyMap was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key compatibility.preferJourneyMapIntegrationMod was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key compatibility.blueMap was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key compatibility.dynmap was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Configuration file C:\Users\Felipe\AppData\Roaming\.minecraft\versions\vinijr16anos\config\balm-common.toml is not correct. Correcting
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleEnum was corrected from null to its default, Hello. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleInt was corrected from null to its default, 42. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleIntList was corrected from null to its default, [12, 24]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleBoolean was corrected from null to its default, true. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleString was corrected from null to its default, Hello World. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleStringList was corrected from null to its default, [Hello, World]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleEnumList was corrected from null to its default, [Hello, World]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleResourceLocationSet was corrected from null to its default, [minecraft:dirt, minecraft:diamond]. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory.innerField was corrected from null to its default, I am inside. 
+[19:28:12] [modloading-worker-0/WARN]: Incorrect key exampleCategory.exampleFloat was corrected from null to its default, 42.84000015258789. 
+[19:28:12] [Worker-Main-10/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[19:28:13] [Worker-Main-5/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[19:28:13] [Worker-Main-5/INFO]: Found @JourneyMapPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[19:28:13] [Worker-Main-5/INFO]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[19:28:13] [Download-1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:28:13] [Download-1/ERROR]: Failed to fetch Realms feature flags
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at TRANSFORMER/minecraft@1.21.5/com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:495) ~[forge-1.21.5-55.0.16-client.jar!/:?]
+	at TRANSFORMER/minecraft@1.21.5/com.mojang.realmsclient.client.RealmsClient.fetchFeatureFlags(RealmsClient.java:177) ~[forge-1.21.5-55.0.16-client.jar!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:28:13] [Forge Version Check/INFO]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[19:28:13] [Render thread/INFO]: Journeymap Initializing
+[19:28:13] [Forge Version Check/INFO]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
+[19:28:13] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19:28:15] [Render thread/WARN]: minecraft:pipeline/entity_translucent_emissive shader program does not use sampler Sampler2 defined in the pipeline. This might be a bug.
+[19:28:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on FxSound Speakers (FxSound Audio Enhancer)
+[19:28:15] [Render thread/INFO]: Sound engine started
+[19:28:16] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:28:16] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:28:18] [Render thread/ERROR]: Illegal format found `{0,choice,0#Sem mods|1#1<{0} mods} carregados`
+[19:28:21] [Forge Version Check/INFO]: [forge] Found status: BETA_OUTDATED Current: 55.0.16 Target: 55.0.20
+[19:28:21] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[19:28:22] [Forge Version Check/INFO]: [journeymap] Found status: BETA Current: 1.21.5-6.0.0-beta.46 Target: 1.21.5-6.0.0-beta.45
+[19:29:15] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, file/Emissive_TXF_optifine_1.21.zip, file/TransparentGUI-1.21.X-R1.3.zip
+[19:29:15] [Worker-Main-5/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[19:29:15] [Worker-Main-12/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[19:29:15] [Worker-Main-12/WARN]: Invalid path in datapack: minecraft:textures/gui/sprites/container/beacon/button_disabled (copy).png, ignoring
+[19:29:15] [Render thread/WARN]: minecraft:pipeline/entity_translucent_emissive shader program does not use sampler Sampler2 defined in the pipeline. This might be a bug.
+[19:29:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on FxSound Speakers (FxSound Audio Enhancer)
+[19:29:15] [Render thread/INFO]: Sound engine started
+[19:29:15] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:29:15] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:29:20] [Render thread/ERROR]: Illegal format found `{0,choice,0#Sem mods|1#1<{0} mods} carregados`
